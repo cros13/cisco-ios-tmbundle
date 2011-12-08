@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Cisco</string>
+	<key>ordering</key>
+	<array>
+		<string>DDC9CB9E-AF2D-48A7-A600-12498CA0A59A</string>
+		<string>024B7A07-546A-4D0D-871A-BE2B2FCC00E4</string>
+		<string>44F0FBAA-7E2D-496D-B47F-BF2F26F445B8</string>
+		<string>4E05F688-78CD-4C46-BD29-BC415134C689</string>
+	</array>
+	<key>uuid</key>
+	<string>0303261C-04D4-495F-B27A-2851E0FB7BE7</string>
+</dict>
+</plist>
